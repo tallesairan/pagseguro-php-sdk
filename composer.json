@@ -7,8 +7,7 @@
       "name": "PagSeguro"
     }
   ],
-  "require": {
-    "php": "^5.6",
+  "require": { 
     "ext-curl": "*",
     "lib-curl": "*",
     "lib-openssl": "*"
